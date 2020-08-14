@@ -1,0 +1,12 @@
+{
+	"version": 3,
+	"file": "navigation.css",
+	"sources": [
+		"../../scss/layout/navigation.scss"
+	],
+	"sourcesContent": [
+		".navigation{\r\n    &__checkbox{\r\n        display: none;\r\n    }\r\n\r\n    &__button{}\r\n\r\n    &__background{}\r\n\r\n    &__nav{}\r\n\r\n    &__list{}\r\n\r\n    &__item{}\r\n\r\n    &__link{}\r\n}"
+	],
+	"names": [],
+	"mappings": ";AACK,AAAD,qBAAW,CAAA;EACP,OAAO,EAAE,IAAI,GAChB"
+}
